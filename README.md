@@ -12,7 +12,13 @@
 
 <br />
 
+
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&link=https://github.com/MohnishReddy9742)](https://github.com/MohnishReddy9742)
+
+[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&link=https://github.com/MohnishReddy9742)](https://github.com/MohnishReddy9742)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/MohnishReddy9742)](https://github.com/MohnishReddy9742) 
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/MohnishReddy9742)](https://github.com/MohnishReddy9742) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MohnishReddy9742)](https://github.com/MohnishReddy9742) 
